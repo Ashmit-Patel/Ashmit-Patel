@@ -83,8 +83,8 @@ C#           0 mins                ░░░░░░░░░░░░░░░
 </a>
 </p>
 <p align="left">
-<a href="https://github.com/Ashmit-Pat-Patel">
-<img src="https://komarev.com/ghpvc/?username=Ashmit-Pat-Patel&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://github.com/Ashmit-Patel">
+<img src="https://komarev.com/ghpvc/?username=Ashmit-Patel&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
 </p>
 
