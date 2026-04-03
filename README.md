@@ -41,7 +41,7 @@ I’m currently working on building seamless web applications, combining **React
 ### 🛠️ Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashmit-Patel&repo=portfolio&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashmit-Patel&repo=Projects&theme=tokyonight" />
 </div>
 
 ## 💻 Tech Stack & Tools:
