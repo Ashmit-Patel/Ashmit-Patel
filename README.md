@@ -38,10 +38,10 @@ I’m currently working on building seamless web applications, combining **React
   <img src="https://raw.githubusercontent.com/Ashmit-Patel/Ashmit-Patel/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Grid" width="100%" />
 </div>
 
-### 🛠️ Featured Projects
+### 🛠️ Top Languages & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashmit-Patel&repo=Projects&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit-Patel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0e0e16&count_private=true" />
 </div>
 
 ## 💻 Tech Stack & Tools:
@@ -60,10 +60,8 @@ I’m currently working on building seamless web applications, combining **React
 
 ## ⏱️ Weekly Coding Stats
 
-```txt
-TypeScript   0 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-C#           0 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 🚀 Beyond Code:
 
@@ -76,7 +74,7 @@ C#           0 mins                ░░░░░░░░░░░░░░░
 
 <p align="left">
 <a href="https://github.com/Ashmit-Patel">
-<img src="https://github-readme-stats.vercel.app/api?username=Ashmit-Patel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0e0e16" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ashmit-Patel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0e0e16&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Ashmit-Patel">
 <img src="https://streak-stats.demolab.com/?user=Ashmit-Patel&theme=tokyonight&hide_border=true&background=0e0e16" alt="GitHub Streak" />
