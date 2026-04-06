@@ -61,6 +61,11 @@ I’m currently working on building seamless web applications, combining **React
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 🚀 Beyond Code:
