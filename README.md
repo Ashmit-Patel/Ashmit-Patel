@@ -63,6 +63,8 @@ I’m currently working on building seamless web applications, combining **React
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 0 secs
+
 No activity tracked
 ```
 
