@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;React.js+%2B+.NET+Core;BGMI+Gamer+%26+Traveler;Welcome+to+my+GitHub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%2B+.NET+Core;BGMI+Gamer+%26+Traveler;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 </div>
 
