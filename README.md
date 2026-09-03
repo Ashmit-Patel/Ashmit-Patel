@@ -35,7 +35,7 @@ I’m currently working on building seamless web applications, combining **React
 ## 🏙️ 3D Contribution Grid:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ashmit-Patel/Ashmit-Patel/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Grid" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ashmit-Patel/Ashmit-Patel/master/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Grid" width="100%" />
 </div>
 
 ### 🛠️ Top Languages & Stats
