@@ -56,9 +56,9 @@ I’m currently working on building seamless web applications, combining **React
 ```txt
 Total Time: 16 hrs 20 mins
 
-TypeScript   5 hrs 46 mins         ████████▓░░░░░░░░░░░░░░░░   35.31 %
-Markdown     4 hrs 16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
-C#           3 hrs 47 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
+TypeScript   5 hrs 46 mins         █████████░░░░░░░░░░░░░░░░   35.34 %
+Markdown     4 hrs 16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
+C#           3 hrs 47 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.20 %
 XML          1 hr 3 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 YAML         26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
