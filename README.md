@@ -54,13 +54,9 @@ I’m currently working on building seamless web applications, combining **React
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 38 mins
+Total Time: 5 mins
 
-C#           1 hr 2 mins           ███████████████▓░░░░░░░░░   63.11 %
-TypeScript   11 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-PowerShell   11 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-JSON         8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-Bash         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+TypeScript   5 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
